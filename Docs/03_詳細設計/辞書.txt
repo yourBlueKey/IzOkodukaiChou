@@ -1,0 +1,31 @@
+お小遣い	expense
+買い物	shopping
+情報	information
+入金	recive
+金額	amount
+更新	update
+登録	add
+種類	kind
+表示	view
+グラフ	graph
+保存先	saveTo
+バックアップ	backup
+単位	unit
+期間	period
+形式	form
+出力	output
+ローン	loan
+残額	remaining
+購入日	purchase
+お店	shop
+商品名	item
+支払	payment
+銀行	bank
+口座	account
+残高	balance
+撮影	photograph
+
+
+
+
+
