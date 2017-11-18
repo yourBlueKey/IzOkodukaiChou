@@ -1,0 +1,22 @@
+
+
+　●IzShopping
+・フィールド
+
+・メソッド
+getShoppingId	買い物情報ID取得
+getItem	商品取得
+getAmount	金額取得
+getReceiptId	レシートID取得
+getUpdateUser	更新者取得
+getUpdateDate	更新日取得
+setShoppingId	買い物情報ID設定
+setReceiptId	
+setItem
+setAmount
+setUpdateUser
+setUpdateDate
+
+
+
+

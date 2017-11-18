@@ -1,10 +1,12 @@
-お小遣い	expense
+おこづかい帳アプリ	IzOkodukaiChou
+おこづかい	expense
 買い物	shopping
 情報	information
 入金	recive
 金額	amount
 更新	update
 登録	add
+削除	delete
 種類	kind
 表示	view
 グラフ	graph
@@ -24,8 +26,9 @@
 口座	account
 残高	balance
 撮影	photograph
-
-
+画面	screen
+一覧	list
+レシート	receipt
 
 
 
